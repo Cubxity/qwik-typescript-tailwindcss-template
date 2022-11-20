@@ -74,3 +74,9 @@ Additionally, the build command will use Typescript to run a type check on the s
 ```shell
 pnpm run build # or `yarn build`
 ```
+
+## Static Site Generator (Node.js)
+
+```
+npm run build.server
+```
